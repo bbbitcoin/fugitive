@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+youlovesk.com	TRUE	/	FALSE	1999999999	_landing_page	%2F
+youlovesk.com	TRUE	/	FALSE	1999999999	localization	US
+youlovesk.com	TRUE	/	FALSE	1999999999	cart_currency	USD
+youlovesk.com	TRUE	/	FALSE	1999999999	_y	200817fc-a640-4734-91a2-176eda648cee
+youlovesk.com	TRUE	/	FALSE	1999999999	_s	6c86284f-ac76-46f9-98b1-7d4f078253ba
+youlovesk.com	TRUE	/	FALSE	1999999999	_shopify_y	200817fc-a640-4734-91a2-176eda648cee
+youlovesk.com	TRUE	/	FALSE	1999999999	_shopify_s	6c86284f-ac76-46f9-98b1-7d4f078253ba
+youlovesk.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
